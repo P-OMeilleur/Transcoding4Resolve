@@ -39,13 +39,6 @@ Example
 1: What is video extension you want do transcode : mp4
 ```
 
-The script require the video resolution in this format **widthxheight**
-
-Example
-```
-2: What is the resolution to transcode : 1920x1080
-```
-
 ### Output files
-All of your files should be in the folder named **/output**
+All of your files should be in the folder named **/transcoded**
 with the same name an the .mov extension
